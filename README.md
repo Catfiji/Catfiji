@@ -1,10 +1,19 @@
 ###    		⋆⛧*┈┈┈┈﹤୨♡୧﹥ ┈┈┈┈*⛧⋆
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
  
-𝙷𝚒 𝙸'𝚖 𝙲𝚊𝚝𝚑𝚘𝚗𝚒𝚊, 𝙸 𝚕𝚒𝚔𝚎 𝚖𝚊𝚝𝚑, 𝚖𝚊𝚔𝚒𝚗𝚐 𝚐𝚊𝚖𝚎𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚐𝚊𝚖𝚎 𝚌𝚑𝚎𝚊𝚝𝚜,
-
-𝙼𝚢 𝚖𝚊𝚒𝚗 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚛𝚎: 𝙲, 𝙲++, 𝙲#, and 𝙿𝚢𝚝𝚑𝚘𝚗.
-
+ Hi there! my name is Cathonia, I go by she/them. Im a programmer and artist! I like making games, 
+ exploring cool things you can do with languages and just having fun :)
+ 
+ My little experience:
+ 
+  Python - 5 years (Old faithful)
+  C# - 3~4 years (My Favorite!) 
+  C - 3~4 years (Daddy?)
+  C++ - 2~3 years (My Enemies to lovers)
+  LUA - 1 year (weird phase)
+  Java - 1 year (weird phase)
+  
+  Digital Art - 5~6 years
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatFiji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
