@@ -15,6 +15,8 @@
   Java - 1 year (weird phase)
   
   Digital Art - 5~6 years
+  
+  Screaming at compilers - an eternity
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatFiji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
