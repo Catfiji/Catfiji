@@ -7,14 +7,14 @@
  
  My little experience:
  ```
-  Python - 5 years (Old faithful),
-  C# - 3~4 years (My Favorite!),
-  C - 3~4 years (Daddy?),
-  C++ - 2~3 years (My Enemies to lovers)
+  Python - 7 years (Old faithful),
+  C# - 6 years (My Favorite!),
+  C - 6 years (Daddy?),
+  C++ - 4 years (My Enemies to lovers)
   LUA - 1 year (weird phase)
   Java - 1 year (weird phase)
   
-  Digital Art - 5~6 years
+  Digital Art - 7 years
   
   Screaming at compilers - an eternity
 ```
