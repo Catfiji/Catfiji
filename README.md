@@ -7,16 +7,16 @@
  
  My little experience:
  ```
-  Python - 7 years 
-  C# - 6 years 
-  C - 6 years 
-  C++ - 4 years 
-  LUA - 2 years
-  Java - 2 years
-  Rust - 2 years
-  Javascript/TypeScript - 2 years
+  Python - 8 years 
+  C# - 8 years 
+  C - 7 years 
+  C++ - 7 years 
+  LUA - 4 years
+  Java - 4 years
+  Rust - 3 years
+  Javascript/TypeScript - 3 years
   
-  Digital Art - 7 years
+  Digital Art - 8 years
   
   Screaming at compilers - an eternity
 ```
